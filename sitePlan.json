@@ -1,0 +1,49 @@
+{
+  "businessName": "Marabella Enterprise",
+  "industry": "Manufacturing",
+  "tone": "professional and confident",
+  "tagline": "Quality Manufacturing Solutions for Nigerian Businesses",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Marabella Enterprise: Your Trusted Manufacturing Partner in Ijebu Ode. We deliver precision, quality, and reliability in every product we manufacture. From concept to completion, we bring your vision to life with world-class manufacturing standards right here in Nigeria.",
+      "imagePrompt": "Modern Nigerian manufacturing facility interior with clean production lines, skilled workers in safety gear operating machinery, bright natural lighting streaming through industrial windows, professional workspace with 'Made in Nigeria' pride, Ijebu Ode industrial setting, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Marabella Enterprise is a leading manufacturing company based in the heart of Ijebu Ode, Ogun State. We specialize in providing comprehensive manufacturing solutions tailored to meet the diverse needs of Nigerian businesses and consumers. Our state-of-the-art facility at 9, Alausa Street combines modern technology with skilled craftsmanship to deliver products that meet international quality standards. We are committed to supporting local industry growth, creating employment opportunities, and contributing to Nigeria's economic development through excellence in manufacturing. At Marabella Enterprise, we don't just manufacture products—we build lasting partnerships with our clients, ensuring their success is our success.",
+      "imagePrompt": "Professional Nigerian manufacturing team standing proudly in front of industrial equipment, diverse workforce in branded company uniforms, modern factory floor background with quality control stations, warm collaborative atmosphere, Ijebu Ode business environment, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Services",
+      "copy": "Contract Manufacturing: We provide end-to-end contract manufacturing services, handling everything from raw material sourcing to finished product delivery.\n\nCustom Product Development: Transform your ideas into reality with our custom manufacturing solutions designed to your exact specifications.\n\nQuality Assurance: Every product undergoes rigorous quality control testing to ensure it meets the highest standards before leaving our facility.\n\nSupply Chain Management: We manage the entire supply chain process, ensuring timely delivery and cost-effective production.\n\nPrototyping & Testing: From initial prototypes to final production runs, we support you through every stage of product development.\n\nPackaging Solutions: Complete packaging services to ensure your products reach the market in perfect condition.",
+      "imagePrompt": "Grid layout of Nigerian manufacturing processes: workers operating precision machinery, quality control inspection stations with testing equipment, raw materials being processed, packaging line with finished products, modern warehouse with organized inventory, professional industrial photography",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Marabella",
+      "copy": "Local Expertise, Global Standards: We understand the Nigerian market while maintaining international manufacturing standards.\n\nCost-Effective Solutions: Competitive pricing without compromising on quality, helping you maximize your profit margins.\n\nReliable Delivery: We pride ourselves on meeting deadlines and maintaining consistent supply chains for our clients.\n\nFlexible Production: Whether you need small batch runs or large-scale production, we have the capacity to meet your requirements.\n\nExperienced Team: Our skilled workforce brings years of manufacturing expertise to every project.\n\nStrategic Location: Based in Ijebu Ode, we offer easy access to major markets across Southwest Nigeria and beyond.",
+      "imagePrompt": "Nigerian business success imagery: handshake between business partners in manufacturing setting, workers celebrating quality production milestone, trucks loaded with finished products ready for delivery, certificates of quality standards on office wall, professional corporate environment",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Contact Marabella Enterprise today. Whether you're looking to start a new production line, need a reliable manufacturing partner, or want to explore custom solutions, we're here to help. Our team is available to answer your questions, provide quotes, and schedule facility tours. Let's build something great together.\n\nVisit us at our facility: 9, Alausa Street, Ijebu Ode, Ogun State\nCall us: 0807 961 2522\nFor quick responses, reach us on WhatsApp",
+      "imagePrompt": "Professional Nigerian business contact scene: modern office reception area with Marabella Enterprise branding, friendly receptionist ready to assist, clean corporate environment, industrial facility visible through glass windows, Ijebu Ode location markers, welcoming atmosphere, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 807 961 2522",
+    "email": "info@marabellaenterprise.com",
+    "address": "9, Alausa Street, Ijebu Ode, Ogun State, Nigeria",
+    "whatsapp": "https://wa.me/2348079612522"
+  }
+}
